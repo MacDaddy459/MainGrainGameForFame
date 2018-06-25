@@ -14,3 +14,7 @@ Saved
 *.xcworkspace
 
 Content/StarterContent/*
+Content/InfinityBladeEffects/*
+Content/InfinityBladeFireLands/*
+Content/InfinityBladeIceLands/*
+Content/InfinityBladeGrassLands/*
